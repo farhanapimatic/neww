@@ -12,7 +12,7 @@ import com.fasterxml.jackson.annotation.JsonSetter;
 public class DATA 
         extends java.util.Observable
         implements java.io.Serializable {
-    private static final long serialVersionUID = 5586946856016698640L;
+    private static final long serialVersionUID = 5416167243681921942L;
     private double latitude;
     private double longitude;
     /** GETTER

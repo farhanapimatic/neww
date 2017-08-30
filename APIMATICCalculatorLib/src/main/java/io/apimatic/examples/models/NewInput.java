@@ -12,7 +12,7 @@ import com.fasterxml.jackson.annotation.JsonSetter;
 public class NewInput 
         extends java.util.Observable
         implements java.io.Serializable {
-    private static final long serialVersionUID = 5089698966669978389L;
+    private static final long serialVersionUID = 4758229337647350005L;
     private NewRequest body;
     private String cacheControl;
     private String contentType;

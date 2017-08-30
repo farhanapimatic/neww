@@ -12,7 +12,7 @@ import com.fasterxml.jackson.annotation.JsonSetter;
 public class GetCalculateInput 
         extends java.util.Observable
         implements java.io.Serializable {
-    private static final long serialVersionUID = 4853458831645764488L;
+    private static final long serialVersionUID = 5170013295497028640L;
     private OperationTypeEnum operation;
     private double x;
     private double y;
